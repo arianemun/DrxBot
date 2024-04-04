@@ -1,6 +1,6 @@
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/wizwizdev/wizwizxui-timebot/main/wizwiz.sh)
+bash <(curl -s https://raw.githubusercontent.com/arianemun/DrxBot/main/wizwiz.sh)
 ```
 - First enter "sub.domain.com" or "domain.com" without https
 - Enter email
